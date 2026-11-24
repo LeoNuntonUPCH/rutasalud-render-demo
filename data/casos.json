@@ -1,0 +1,62 @@
+[
+  {
+    "id": "C01",
+    "titulo": "Adulto con tos",
+    "area_destino": "Medicina general",
+    "pista": "Compara las conexiones de recepción y las alternativas de llegada a cada sección."
+  },
+  {
+    "id": "C02",
+    "titulo": "Niño con malestar",
+    "area_destino": "Pediatría",
+    "pista": "Examina los ciclos de la galería y las secciones disponibles de pediatría."
+  },
+  {
+    "id": "C03",
+    "titulo": "Adulto con dolor torácico",
+    "area_destino": "Atención prioritaria",
+    "pista": "Analiza bifurcaciones y distancia en conexiones hasta atención prioritaria."
+  },
+  {
+    "id": "C04",
+    "titulo": "Cita de control ginecológico",
+    "area_destino": "Ginecología",
+    "pista": "Compara accesos, tiempos entre pisos y secciones disponibles; no hay estimación informativa."
+  },
+  {
+    "id": "C05",
+    "titulo": "Dolor abdominal; usa silla de ruedas",
+    "area_destino": "Medicina interna",
+    "pista": "Considera accesibilidad, tiempos de ascensor y espera en medicina interna."
+  },
+  {
+    "id": "C06",
+    "titulo": "Lesión de tobillo",
+    "area_destino": "Traumatología",
+    "pista": "Revisa accesos permitidos y horarios de las secciones de traumatología."
+  },
+  {
+    "id": "C07",
+    "titulo": "Dolor lumbar",
+    "area_destino": "Traumatología",
+    "pista": "Compara tiempos de ascensores y rutas disponibles hacia traumatología."
+  },
+  {
+    "id": "C08",
+    "titulo": "Control de movilidad",
+    "area_destino": "Traumatología",
+    "pista": "Analiza los horarios y la espera adicional de las secciones de traumatología."
+  },
+  {
+    "id": "C09",
+    "titulo": "Malestar alérgico; la orden puede cambiar",
+    "area_destino": "Triaje inicial",
+    "pista": "Examina conexiones y tiempos hacia triaje; mantén atención a cambios de orden."
+  },
+  {
+    "id": "C10",
+    "titulo": "Control posoperatorio; requiere examen",
+    "area_destino": "Laboratorio y medicina interna",
+    "pista": "Compara accesibilidad y tiempos entre pisos para las etapas de triaje, laboratorio y medicina interna."
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "id": "C08",
+  "nivel": 3,
+  "origen": "recepcion_1",
+  "silla_ruedas": false,
+  "pisos_habilitados": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "etapas": [
+    "triaje",
+    "traumatologia"
+  ],
+  "eventos": [],
+  "costo": "segundos",
+  "semilla": 8,
+  "hora_caso": "14:00",
+  "bloqueados_iniciales": [],
+  "heuristica_disponible": true,
+  "cambios_conexiones": [],
+  "cambios_secciones": [
+    {
+      "id": "traumatologia_1",
+      "cambios": {
+        "estado": "cerrada",
+        "horario": "08:00–12:00",
+        "motivo_cierre": "Fuera de horario"
+      }
+    },
+    {
+      "id": "traumatologia_3",
+      "cambios": {
+        "estado": "saturada",
+        "espera_segundos": 180
+      }
+    }
+  ]
+}

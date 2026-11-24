@@ -1,0 +1,36 @@
+{
+  "id": "C10",
+  "nivel": 4,
+  "origen": "recepcion_1",
+  "silla_ruedas": true,
+  "pisos_habilitados": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "etapas": [
+    "triaje",
+    "laboratorio",
+    "medicina_interna"
+  ],
+  "eventos": [
+    {
+      "origen": "laboratorio_1",
+      "etapas": [
+        "medicina_interna"
+      ],
+      "bloqueados": [
+        "ascensor_a"
+      ]
+    }
+  ],
+  "costo": "segundos",
+  "semilla": 10,
+  "hora_caso": "10:00",
+  "bloqueados_iniciales": [],
+  "heuristica_disponible": true,
+  "cambios_conexiones": [],
+  "cambios_secciones": []
+}

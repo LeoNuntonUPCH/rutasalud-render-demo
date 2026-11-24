@@ -1,0 +1,360 @@
+[
+  {
+    "caso": "C06",
+    "version": 5,
+    "estado": "inicial",
+    "origen": "recepcion_1",
+    "area": "triaje",
+    "garantizados": [
+      "dijkstra",
+      "astar"
+    ],
+    "habilitados": [
+      "dijkstra",
+      "astar"
+    ],
+    "destinos": [
+      "fin_triaje_1",
+      "fin_triaje_2",
+      "fin_triaje_3"
+    ],
+    "unidad": "segundos",
+    "optimo": 28.0,
+    "presupuesto": 12,
+    "errores_heuristica": [],
+    "resultados": {
+      "bfs": {
+        "ruta": [
+          "recepcion_1",
+          "p1_c0",
+          "p1_c1",
+          "p1_c2",
+          "p1_c3",
+          "triaje_1",
+          "fin_triaje_1"
+        ],
+        "costo": 28.0,
+        "expansiones": 21
+      },
+      "dfs": {
+        "ruta": [
+          "recepcion_1",
+          "p1_c0",
+          "p1_c1",
+          "p1_c2",
+          "p1_c3",
+          "p1_c4",
+          "p1_c5",
+          "triaje_3",
+          "fin_triaje_3"
+        ],
+        "costo": 36.0,
+        "expansiones": 144
+      },
+      "dijkstra": {
+        "ruta": [
+          "recepcion_1",
+          "p1_c0",
+          "p1_c1",
+          "p1_c2",
+          "p1_c3",
+          "triaje_1",
+          "fin_triaje_1"
+        ],
+        "costo": 28.0,
+        "expansiones": 12
+      },
+      "astar": {
+        "ruta": [
+          "recepcion_1",
+          "p1_c0",
+          "p1_c1",
+          "p1_c2",
+          "p1_c3",
+          "triaje_1",
+          "fin_triaje_1"
+        ],
+        "costo": 28.0,
+        "expansiones": 8
+      },
+      "greedy": {
+        "ruta": [
+          "recepcion_1",
+          "p1_c0",
+          "p1_c1",
+          "p1_c2",
+          "p1_c3",
+          "triaje_1",
+          "fin_triaje_1"
+        ],
+        "costo": 28.0,
+        "expansiones": 8
+      },
+      "bidireccional": {
+        "ruta": [
+          "recepcion_1",
+          "p1_c0",
+          "p1_c1",
+          "p1_c2",
+          "p1_c3",
+          "triaje_1",
+          "fin_triaje_1"
+        ],
+        "costo": 28.0,
+        "expansiones": 13
+      }
+    }
+  },
+  {
+    "caso": "C06",
+    "version": 5,
+    "estado": "inicial",
+    "origen": "triaje_1",
+    "area": "traumatologia",
+    "garantizados": [
+      "dijkstra",
+      "astar"
+    ],
+    "habilitados": [
+      "dijkstra",
+      "astar"
+    ],
+    "destinos": [
+      "fin_traumatologia_2"
+    ],
+    "unidad": "segundos",
+    "optimo": 168.0,
+    "presupuesto": 115,
+    "errores_heuristica": [],
+    "resultados": {
+      "bfs": {
+        "ruta": [
+          "triaje_1",
+          "p1_c3",
+          "p1_c2",
+          "p1_c1",
+          "p1_c0",
+          "p1_g0",
+          "p1_g7",
+          "p1_g15",
+          "p1_c15",
+          "p1_ascensor_b",
+          "p2_ascensor_b",
+          "p3_ascensor_b",
+          "p3_c15",
+          "p3_g15",
+          "p3_g7",
+          "p3_g0",
+          "p3_c0",
+          "p3_c1",
+          "traumatologia_2",
+          "fin_traumatologia_2"
+        ],
+        "costo": 264.0,
+        "expansiones": 126
+      },
+      "dfs": {
+        "ruta": [
+          "triaje_1",
+          "p1_c3",
+          "p1_c2",
+          "p1_c1",
+          "p1_c0",
+          "p1_g0",
+          "p1_g7",
+          "p1_c7",
+          "p1_c8",
+          "p1_c9",
+          "p1_c10",
+          "p1_c11",
+          "p1_c12",
+          "p1_c13",
+          "p1_c14",
+          "p1_c15",
+          "p1_ascensor_b",
+          "p2_ascensor_b",
+          "p3_ascensor_b",
+          "p3_c15",
+          "p3_c14",
+          "p3_c13",
+          "p3_c12",
+          "p3_c11",
+          "p3_c10",
+          "p3_c9",
+          "p3_c8",
+          "p3_c7",
+          "p3_c6",
+          "p3_c5",
+          "p3_c4",
+          "p3_c3",
+          "p3_c2",
+          "p3_c1",
+          "traumatologia_2",
+          "fin_traumatologia_2"
+        ],
+        "costo": 224.0,
+        "expansiones": 79
+      },
+      "dijkstra": {
+        "ruta": [
+          "triaje_1",
+          "p1_c3",
+          "p1_c4",
+          "p1_c5",
+          "p1_c6",
+          "p1_c7",
+          "p1_c8",
+          "p1_c9",
+          "p1_c10",
+          "p1_c11",
+          "p1_c12",
+          "p1_c13",
+          "p1_c14",
+          "p1_c15",
+          "p1_ascensor_b",
+          "p2_ascensor_b",
+          "p3_ascensor_b",
+          "p3_c15",
+          "p3_c14",
+          "p3_c13",
+          "p3_c12",
+          "p3_c11",
+          "p3_c10",
+          "p3_c9",
+          "p3_c8",
+          "p3_c7",
+          "p3_c6",
+          "p3_c5",
+          "p3_c4",
+          "p3_c3",
+          "p3_c2",
+          "p3_c1",
+          "traumatologia_2",
+          "fin_traumatologia_2"
+        ],
+        "costo": 168.0,
+        "expansiones": 115
+      },
+      "astar": {
+        "ruta": [
+          "triaje_1",
+          "p1_c3",
+          "p1_c4",
+          "p1_c5",
+          "p1_c6",
+          "p1_c7",
+          "p1_c8",
+          "p1_c9",
+          "p1_c10",
+          "p1_c11",
+          "p1_c12",
+          "p1_c13",
+          "p1_c14",
+          "p1_c15",
+          "p1_ascensor_b",
+          "p2_ascensor_b",
+          "p3_ascensor_b",
+          "p3_c15",
+          "p3_c14",
+          "p3_c13",
+          "p3_c12",
+          "p3_c11",
+          "p3_c10",
+          "p3_c9",
+          "p3_c8",
+          "p3_c7",
+          "p3_c6",
+          "p3_c5",
+          "p3_c4",
+          "p3_c3",
+          "p3_c2",
+          "p3_c1",
+          "traumatologia_2",
+          "fin_traumatologia_2"
+        ],
+        "costo": 168.0,
+        "expansiones": 85
+      },
+      "greedy": {
+        "ruta": [
+          "triaje_1",
+          "p1_c3",
+          "p1_c4",
+          "p1_c5",
+          "p1_c6",
+          "p1_c7",
+          "p1_c8",
+          "p1_c9",
+          "p1_c10",
+          "p1_c11",
+          "p1_c12",
+          "p1_c13",
+          "p1_c14",
+          "p1_c15",
+          "p1_ascensor_b",
+          "p2_ascensor_b",
+          "p3_ascensor_b",
+          "p3_c15",
+          "p3_c14",
+          "p3_c13",
+          "p3_c12",
+          "p3_c11",
+          "p3_c10",
+          "p3_c9",
+          "p3_c8",
+          "p3_c7",
+          "p3_c6",
+          "p3_c5",
+          "p3_c4",
+          "p3_c3",
+          "p3_c2",
+          "p3_c1",
+          "traumatologia_2",
+          "fin_traumatologia_2"
+        ],
+        "costo": 168.0,
+        "expansiones": 82
+      },
+      "bidireccional": {
+        "ruta": [
+          "triaje_1",
+          "p1_c3",
+          "p1_c4",
+          "p1_c5",
+          "p1_c6",
+          "p1_c7",
+          "p1_c8",
+          "p1_c9",
+          "p1_c10",
+          "p1_c11",
+          "p1_c12",
+          "p1_c13",
+          "p1_c14",
+          "p1_c15",
+          "p1_ascensor_b",
+          "p2_ascensor_b",
+          "p3_ascensor_b",
+          "p3_c15",
+          "p3_c14",
+          "p3_c13",
+          "p3_c12",
+          "p3_c11",
+          "p3_c10",
+          "p3_c9",
+          "p3_c8",
+          "p3_c7",
+          "p3_c6",
+          "p3_c5",
+          "p3_c4",
+          "p3_c3",
+          "p3_c2",
+          "p3_c1",
+          "traumatologia_2",
+          "fin_traumatologia_2"
+        ],
+        "costo": 168.0,
+        "expansiones": 67
+      }
+    }
+  }
+]

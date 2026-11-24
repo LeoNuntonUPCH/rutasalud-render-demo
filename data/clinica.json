@@ -1,0 +1,2920 @@
+{
+  "pisos": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "nodos": {
+    "p1_c0": {
+      "piso": 1,
+      "x": 0,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p1_c1": {
+      "piso": 1,
+      "x": 4,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p1_c2": {
+      "piso": 1,
+      "x": 8,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p1_c3": {
+      "piso": 1,
+      "x": 12,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p1_c4": {
+      "piso": 1,
+      "x": 16,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p1_c5": {
+      "piso": 1,
+      "x": 20,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p1_c6": {
+      "piso": 1,
+      "x": 24,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p1_c7": {
+      "piso": 1,
+      "x": 28,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p1_c8": {
+      "piso": 1,
+      "x": 32,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p1_c9": {
+      "piso": 1,
+      "x": 36,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p1_c10": {
+      "piso": 1,
+      "x": 40,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p1_c11": {
+      "piso": 1,
+      "x": 44,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p1_c12": {
+      "piso": 1,
+      "x": 48,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p1_c13": {
+      "piso": 1,
+      "x": 52,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p1_c14": {
+      "piso": 1,
+      "x": 56,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p1_c15": {
+      "piso": 1,
+      "x": 60,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p1_ascensor_a": {
+      "piso": 1,
+      "x": 0,
+      "y": 24,
+      "tipo": "ascensor_a"
+    },
+    "p1_ascensor_b": {
+      "piso": 1,
+      "x": 60,
+      "y": 24,
+      "tipo": "ascensor_b"
+    },
+    "p1_escalera": {
+      "piso": 1,
+      "x": 28,
+      "y": 24,
+      "tipo": "escalera"
+    },
+    "p1_g0": {
+      "piso": 1,
+      "x": 0,
+      "y": 36,
+      "tipo": "pasillo"
+    },
+    "p1_g7": {
+      "piso": 1,
+      "x": 28,
+      "y": 36,
+      "tipo": "pasillo"
+    },
+    "p1_g15": {
+      "piso": 1,
+      "x": 60,
+      "y": 36,
+      "tipo": "pasillo"
+    },
+    "recepcion_1": {
+      "piso": 1,
+      "x": 0,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "recepcion_2": {
+      "piso": 1,
+      "x": 4,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "recepcion_3": {
+      "piso": 1,
+      "x": 8,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "triaje_1": {
+      "piso": 1,
+      "x": 12,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "triaje_2": {
+      "piso": 1,
+      "x": 16,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "triaje_3": {
+      "piso": 1,
+      "x": 20,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "atencion_prioritaria_1": {
+      "piso": 1,
+      "x": 24,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "atencion_prioritaria_2": {
+      "piso": 1,
+      "x": 28,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "atencion_prioritaria_3": {
+      "piso": 1,
+      "x": 32,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "medicina_general_1": {
+      "piso": 1,
+      "x": 36,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "medicina_general_2": {
+      "piso": 1,
+      "x": 40,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "medicina_general_3": {
+      "piso": 1,
+      "x": 44,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "pediatria_1": {
+      "piso": 1,
+      "x": 48,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "pediatria_2": {
+      "piso": 1,
+      "x": 52,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "pediatria_3": {
+      "piso": 1,
+      "x": 56,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "p2_c0": {
+      "piso": 2,
+      "x": 0,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p2_c1": {
+      "piso": 2,
+      "x": 4,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p2_c2": {
+      "piso": 2,
+      "x": 8,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p2_c3": {
+      "piso": 2,
+      "x": 12,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p2_c4": {
+      "piso": 2,
+      "x": 16,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p2_c5": {
+      "piso": 2,
+      "x": 20,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p2_c6": {
+      "piso": 2,
+      "x": 24,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p2_c7": {
+      "piso": 2,
+      "x": 28,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p2_c8": {
+      "piso": 2,
+      "x": 32,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p2_c9": {
+      "piso": 2,
+      "x": 36,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p2_c10": {
+      "piso": 2,
+      "x": 40,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p2_c11": {
+      "piso": 2,
+      "x": 44,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p2_c12": {
+      "piso": 2,
+      "x": 48,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p2_c13": {
+      "piso": 2,
+      "x": 52,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p2_c14": {
+      "piso": 2,
+      "x": 56,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p2_c15": {
+      "piso": 2,
+      "x": 60,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p2_ascensor_a": {
+      "piso": 2,
+      "x": 0,
+      "y": 24,
+      "tipo": "ascensor_a"
+    },
+    "p2_ascensor_b": {
+      "piso": 2,
+      "x": 60,
+      "y": 24,
+      "tipo": "ascensor_b"
+    },
+    "p2_escalera": {
+      "piso": 2,
+      "x": 28,
+      "y": 24,
+      "tipo": "escalera"
+    },
+    "p2_g0": {
+      "piso": 2,
+      "x": 0,
+      "y": 36,
+      "tipo": "pasillo"
+    },
+    "p2_g7": {
+      "piso": 2,
+      "x": 28,
+      "y": 36,
+      "tipo": "pasillo"
+    },
+    "p2_g15": {
+      "piso": 2,
+      "x": 60,
+      "y": 36,
+      "tipo": "pasillo"
+    },
+    "ginecologia_1": {
+      "piso": 2,
+      "x": 0,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "ginecologia_2": {
+      "piso": 2,
+      "x": 4,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "ginecologia_3": {
+      "piso": 2,
+      "x": 8,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "medicina_interna_1": {
+      "piso": 2,
+      "x": 12,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "medicina_interna_2": {
+      "piso": 2,
+      "x": 16,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "medicina_interna_3": {
+      "piso": 2,
+      "x": 20,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "p3_c0": {
+      "piso": 3,
+      "x": 0,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p3_c1": {
+      "piso": 3,
+      "x": 4,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p3_c2": {
+      "piso": 3,
+      "x": 8,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p3_c3": {
+      "piso": 3,
+      "x": 12,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p3_c4": {
+      "piso": 3,
+      "x": 16,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p3_c5": {
+      "piso": 3,
+      "x": 20,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p3_c6": {
+      "piso": 3,
+      "x": 24,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p3_c7": {
+      "piso": 3,
+      "x": 28,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p3_c8": {
+      "piso": 3,
+      "x": 32,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p3_c9": {
+      "piso": 3,
+      "x": 36,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p3_c10": {
+      "piso": 3,
+      "x": 40,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p3_c11": {
+      "piso": 3,
+      "x": 44,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p3_c12": {
+      "piso": 3,
+      "x": 48,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p3_c13": {
+      "piso": 3,
+      "x": 52,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p3_c14": {
+      "piso": 3,
+      "x": 56,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p3_c15": {
+      "piso": 3,
+      "x": 60,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p3_ascensor_a": {
+      "piso": 3,
+      "x": 0,
+      "y": 24,
+      "tipo": "ascensor_a"
+    },
+    "p3_ascensor_b": {
+      "piso": 3,
+      "x": 60,
+      "y": 24,
+      "tipo": "ascensor_b"
+    },
+    "p3_escalera": {
+      "piso": 3,
+      "x": 28,
+      "y": 24,
+      "tipo": "escalera"
+    },
+    "p3_g0": {
+      "piso": 3,
+      "x": 0,
+      "y": 36,
+      "tipo": "pasillo"
+    },
+    "p3_g7": {
+      "piso": 3,
+      "x": 28,
+      "y": 36,
+      "tipo": "pasillo"
+    },
+    "p3_g15": {
+      "piso": 3,
+      "x": 60,
+      "y": 36,
+      "tipo": "pasillo"
+    },
+    "traumatologia_1": {
+      "piso": 3,
+      "x": 0,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "traumatologia_2": {
+      "piso": 3,
+      "x": 4,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "traumatologia_3": {
+      "piso": 3,
+      "x": 8,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "cardiologia_1": {
+      "piso": 3,
+      "x": 12,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "cardiologia_2": {
+      "piso": 3,
+      "x": 16,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "cardiologia_3": {
+      "piso": 3,
+      "x": 20,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "p4_c0": {
+      "piso": 4,
+      "x": 0,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p4_c1": {
+      "piso": 4,
+      "x": 4,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p4_c2": {
+      "piso": 4,
+      "x": 8,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p4_c3": {
+      "piso": 4,
+      "x": 12,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p4_c4": {
+      "piso": 4,
+      "x": 16,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p4_c5": {
+      "piso": 4,
+      "x": 20,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p4_c6": {
+      "piso": 4,
+      "x": 24,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p4_c7": {
+      "piso": 4,
+      "x": 28,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p4_c8": {
+      "piso": 4,
+      "x": 32,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p4_c9": {
+      "piso": 4,
+      "x": 36,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p4_c10": {
+      "piso": 4,
+      "x": 40,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p4_c11": {
+      "piso": 4,
+      "x": 44,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p4_c12": {
+      "piso": 4,
+      "x": 48,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p4_c13": {
+      "piso": 4,
+      "x": 52,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p4_c14": {
+      "piso": 4,
+      "x": 56,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p4_c15": {
+      "piso": 4,
+      "x": 60,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p4_ascensor_a": {
+      "piso": 4,
+      "x": 0,
+      "y": 24,
+      "tipo": "ascensor_a"
+    },
+    "p4_ascensor_b": {
+      "piso": 4,
+      "x": 60,
+      "y": 24,
+      "tipo": "ascensor_b"
+    },
+    "p4_escalera": {
+      "piso": 4,
+      "x": 28,
+      "y": 24,
+      "tipo": "escalera"
+    },
+    "p4_g0": {
+      "piso": 4,
+      "x": 0,
+      "y": 36,
+      "tipo": "pasillo"
+    },
+    "p4_g7": {
+      "piso": 4,
+      "x": 28,
+      "y": 36,
+      "tipo": "pasillo"
+    },
+    "p4_g15": {
+      "piso": 4,
+      "x": 60,
+      "y": 36,
+      "tipo": "pasillo"
+    },
+    "laboratorio_1": {
+      "piso": 4,
+      "x": 0,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "laboratorio_2": {
+      "piso": 4,
+      "x": 4,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "laboratorio_3": {
+      "piso": 4,
+      "x": 8,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "imagenes_1": {
+      "piso": 4,
+      "x": 12,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "imagenes_2": {
+      "piso": 4,
+      "x": 16,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "imagenes_3": {
+      "piso": 4,
+      "x": 20,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "p5_c0": {
+      "piso": 5,
+      "x": 0,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p5_c1": {
+      "piso": 5,
+      "x": 4,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p5_c2": {
+      "piso": 5,
+      "x": 8,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p5_c3": {
+      "piso": 5,
+      "x": 12,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p5_c4": {
+      "piso": 5,
+      "x": 16,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p5_c5": {
+      "piso": 5,
+      "x": 20,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p5_c6": {
+      "piso": 5,
+      "x": 24,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p5_c7": {
+      "piso": 5,
+      "x": 28,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p5_c8": {
+      "piso": 5,
+      "x": 32,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p5_c9": {
+      "piso": 5,
+      "x": 36,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p5_c10": {
+      "piso": 5,
+      "x": 40,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p5_c11": {
+      "piso": 5,
+      "x": 44,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p5_c12": {
+      "piso": 5,
+      "x": 48,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p5_c13": {
+      "piso": 5,
+      "x": 52,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p5_c14": {
+      "piso": 5,
+      "x": 56,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p5_c15": {
+      "piso": 5,
+      "x": 60,
+      "y": 20,
+      "tipo": "pasillo"
+    },
+    "p5_ascensor_a": {
+      "piso": 5,
+      "x": 0,
+      "y": 24,
+      "tipo": "ascensor_a"
+    },
+    "p5_ascensor_b": {
+      "piso": 5,
+      "x": 60,
+      "y": 24,
+      "tipo": "ascensor_b"
+    },
+    "p5_escalera": {
+      "piso": 5,
+      "x": 28,
+      "y": 24,
+      "tipo": "escalera"
+    },
+    "p5_g0": {
+      "piso": 5,
+      "x": 0,
+      "y": 36,
+      "tipo": "pasillo"
+    },
+    "p5_g7": {
+      "piso": 5,
+      "x": 28,
+      "y": 36,
+      "tipo": "pasillo"
+    },
+    "p5_g15": {
+      "piso": 5,
+      "x": 60,
+      "y": 36,
+      "tipo": "pasillo"
+    },
+    "observacion_1": {
+      "piso": 5,
+      "x": 0,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "observacion_2": {
+      "piso": 5,
+      "x": 4,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "observacion_3": {
+      "piso": 5,
+      "x": 8,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "habitaciones_1": {
+      "piso": 5,
+      "x": 12,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "habitaciones_2": {
+      "piso": 5,
+      "x": 16,
+      "y": 12,
+      "tipo": "seccion"
+    },
+    "habitaciones_3": {
+      "piso": 5,
+      "x": 20,
+      "y": 12,
+      "tipo": "seccion"
+    }
+  },
+  "conexiones": [
+    {
+      "origen": "p1_c0",
+      "destino": "p1_c1",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c1",
+      "destino": "p1_c2",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c2",
+      "destino": "p1_c3",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c3",
+      "destino": "p1_c4",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c4",
+      "destino": "p1_c5",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c5",
+      "destino": "p1_c6",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c6",
+      "destino": "p1_c7",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c7",
+      "destino": "p1_c8",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c8",
+      "destino": "p1_c9",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c9",
+      "destino": "p1_c10",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c10",
+      "destino": "p1_c11",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c11",
+      "destino": "p1_c12",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c12",
+      "destino": "p1_c13",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c13",
+      "destino": "p1_c14",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c14",
+      "destino": "p1_c15",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c0",
+      "destino": "p1_ascensor_a",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c15",
+      "destino": "p1_ascensor_b",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c7",
+      "destino": "p1_escalera",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c0",
+      "destino": "p1_g0",
+      "tipo": "pasillo",
+      "metros": 16.0,
+      "segundos": 16.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c7",
+      "destino": "p1_g7",
+      "tipo": "pasillo",
+      "metros": 16.0,
+      "segundos": 16.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c15",
+      "destino": "p1_g15",
+      "tipo": "pasillo",
+      "metros": 16.0,
+      "segundos": 16.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_g0",
+      "destino": "p1_g7",
+      "tipo": "pasillo",
+      "metros": 28.0,
+      "segundos": 28.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_g7",
+      "destino": "p1_g15",
+      "tipo": "pasillo",
+      "metros": 32.0,
+      "segundos": 32.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c0",
+      "destino": "recepcion_1",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c1",
+      "destino": "recepcion_2",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c2",
+      "destino": "recepcion_3",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c3",
+      "destino": "triaje_1",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c4",
+      "destino": "triaje_2",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c5",
+      "destino": "triaje_3",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c6",
+      "destino": "atencion_prioritaria_1",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c7",
+      "destino": "atencion_prioritaria_2",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c8",
+      "destino": "atencion_prioritaria_3",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c9",
+      "destino": "medicina_general_1",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c10",
+      "destino": "medicina_general_2",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c11",
+      "destino": "medicina_general_3",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c12",
+      "destino": "pediatria_1",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c13",
+      "destino": "pediatria_2",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_c14",
+      "destino": "pediatria_3",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c0",
+      "destino": "p2_c1",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c1",
+      "destino": "p2_c2",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c2",
+      "destino": "p2_c3",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c3",
+      "destino": "p2_c4",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c4",
+      "destino": "p2_c5",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c5",
+      "destino": "p2_c6",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c6",
+      "destino": "p2_c7",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c7",
+      "destino": "p2_c8",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c8",
+      "destino": "p2_c9",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c9",
+      "destino": "p2_c10",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c10",
+      "destino": "p2_c11",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c11",
+      "destino": "p2_c12",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c12",
+      "destino": "p2_c13",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c13",
+      "destino": "p2_c14",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c14",
+      "destino": "p2_c15",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c0",
+      "destino": "p2_ascensor_a",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_ascensor_a",
+      "destino": "p2_ascensor_a",
+      "tipo": "ascensor",
+      "metros": 4,
+      "segundos": 20,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": "ascensor_a"
+    },
+    {
+      "origen": "p2_c15",
+      "destino": "p2_ascensor_b",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_ascensor_b",
+      "destino": "p2_ascensor_b",
+      "tipo": "ascensor",
+      "metros": 4,
+      "segundos": 20,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": "ascensor_b"
+    },
+    {
+      "origen": "p2_c7",
+      "destino": "p2_escalera",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p1_escalera",
+      "destino": "p2_escalera",
+      "tipo": "escalera",
+      "metros": 4,
+      "segundos": 12,
+      "accesible": false,
+      "bloqueada": false,
+      "grupo": "escalera"
+    },
+    {
+      "origen": "p2_c0",
+      "destino": "p2_g0",
+      "tipo": "pasillo",
+      "metros": 16.0,
+      "segundos": 16.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c7",
+      "destino": "p2_g7",
+      "tipo": "pasillo",
+      "metros": 16.0,
+      "segundos": 16.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c15",
+      "destino": "p2_g15",
+      "tipo": "pasillo",
+      "metros": 16.0,
+      "segundos": 16.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_g0",
+      "destino": "p2_g7",
+      "tipo": "pasillo",
+      "metros": 28.0,
+      "segundos": 28.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_g7",
+      "destino": "p2_g15",
+      "tipo": "pasillo",
+      "metros": 32.0,
+      "segundos": 32.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c0",
+      "destino": "ginecologia_1",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c1",
+      "destino": "ginecologia_2",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c2",
+      "destino": "ginecologia_3",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c3",
+      "destino": "medicina_interna_1",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c4",
+      "destino": "medicina_interna_2",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_c5",
+      "destino": "medicina_interna_3",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c0",
+      "destino": "p3_c1",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c1",
+      "destino": "p3_c2",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c2",
+      "destino": "p3_c3",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c3",
+      "destino": "p3_c4",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c4",
+      "destino": "p3_c5",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c5",
+      "destino": "p3_c6",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c6",
+      "destino": "p3_c7",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c7",
+      "destino": "p3_c8",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c8",
+      "destino": "p3_c9",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c9",
+      "destino": "p3_c10",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c10",
+      "destino": "p3_c11",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c11",
+      "destino": "p3_c12",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c12",
+      "destino": "p3_c13",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c13",
+      "destino": "p3_c14",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c14",
+      "destino": "p3_c15",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c0",
+      "destino": "p3_ascensor_a",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_ascensor_a",
+      "destino": "p3_ascensor_a",
+      "tipo": "ascensor",
+      "metros": 4,
+      "segundos": 20,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": "ascensor_a"
+    },
+    {
+      "origen": "p3_c15",
+      "destino": "p3_ascensor_b",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_ascensor_b",
+      "destino": "p3_ascensor_b",
+      "tipo": "ascensor",
+      "metros": 4,
+      "segundos": 20,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": "ascensor_b"
+    },
+    {
+      "origen": "p3_c7",
+      "destino": "p3_escalera",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p2_escalera",
+      "destino": "p3_escalera",
+      "tipo": "escalera",
+      "metros": 4,
+      "segundos": 12,
+      "accesible": false,
+      "bloqueada": false,
+      "grupo": "escalera"
+    },
+    {
+      "origen": "p3_c0",
+      "destino": "p3_g0",
+      "tipo": "pasillo",
+      "metros": 16.0,
+      "segundos": 16.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c7",
+      "destino": "p3_g7",
+      "tipo": "pasillo",
+      "metros": 16.0,
+      "segundos": 16.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c15",
+      "destino": "p3_g15",
+      "tipo": "pasillo",
+      "metros": 16.0,
+      "segundos": 16.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_g0",
+      "destino": "p3_g7",
+      "tipo": "pasillo",
+      "metros": 28.0,
+      "segundos": 28.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_g7",
+      "destino": "p3_g15",
+      "tipo": "pasillo",
+      "metros": 32.0,
+      "segundos": 32.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c0",
+      "destino": "traumatologia_1",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c1",
+      "destino": "traumatologia_2",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c2",
+      "destino": "traumatologia_3",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c3",
+      "destino": "cardiologia_1",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c4",
+      "destino": "cardiologia_2",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_c5",
+      "destino": "cardiologia_3",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c0",
+      "destino": "p4_c1",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c1",
+      "destino": "p4_c2",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c2",
+      "destino": "p4_c3",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c3",
+      "destino": "p4_c4",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c4",
+      "destino": "p4_c5",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c5",
+      "destino": "p4_c6",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c6",
+      "destino": "p4_c7",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c7",
+      "destino": "p4_c8",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c8",
+      "destino": "p4_c9",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c9",
+      "destino": "p4_c10",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c10",
+      "destino": "p4_c11",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c11",
+      "destino": "p4_c12",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c12",
+      "destino": "p4_c13",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c13",
+      "destino": "p4_c14",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c14",
+      "destino": "p4_c15",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c0",
+      "destino": "p4_ascensor_a",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_ascensor_a",
+      "destino": "p4_ascensor_a",
+      "tipo": "ascensor",
+      "metros": 4,
+      "segundos": 20,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": "ascensor_a"
+    },
+    {
+      "origen": "p4_c15",
+      "destino": "p4_ascensor_b",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_ascensor_b",
+      "destino": "p4_ascensor_b",
+      "tipo": "ascensor",
+      "metros": 4,
+      "segundos": 20,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": "ascensor_b"
+    },
+    {
+      "origen": "p4_c7",
+      "destino": "p4_escalera",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p3_escalera",
+      "destino": "p4_escalera",
+      "tipo": "escalera",
+      "metros": 4,
+      "segundos": 12,
+      "accesible": false,
+      "bloqueada": false,
+      "grupo": "escalera"
+    },
+    {
+      "origen": "p4_c0",
+      "destino": "p4_g0",
+      "tipo": "pasillo",
+      "metros": 16.0,
+      "segundos": 16.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c7",
+      "destino": "p4_g7",
+      "tipo": "pasillo",
+      "metros": 16.0,
+      "segundos": 16.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c15",
+      "destino": "p4_g15",
+      "tipo": "pasillo",
+      "metros": 16.0,
+      "segundos": 16.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_g0",
+      "destino": "p4_g7",
+      "tipo": "pasillo",
+      "metros": 28.0,
+      "segundos": 28.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_g7",
+      "destino": "p4_g15",
+      "tipo": "pasillo",
+      "metros": 32.0,
+      "segundos": 32.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c0",
+      "destino": "laboratorio_1",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c1",
+      "destino": "laboratorio_2",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c2",
+      "destino": "laboratorio_3",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c3",
+      "destino": "imagenes_1",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c4",
+      "destino": "imagenes_2",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_c5",
+      "destino": "imagenes_3",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c0",
+      "destino": "p5_c1",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c1",
+      "destino": "p5_c2",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c2",
+      "destino": "p5_c3",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c3",
+      "destino": "p5_c4",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c4",
+      "destino": "p5_c5",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c5",
+      "destino": "p5_c6",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c6",
+      "destino": "p5_c7",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c7",
+      "destino": "p5_c8",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c8",
+      "destino": "p5_c9",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c9",
+      "destino": "p5_c10",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c10",
+      "destino": "p5_c11",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c11",
+      "destino": "p5_c12",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c12",
+      "destino": "p5_c13",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c13",
+      "destino": "p5_c14",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c14",
+      "destino": "p5_c15",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c0",
+      "destino": "p5_ascensor_a",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_ascensor_a",
+      "destino": "p5_ascensor_a",
+      "tipo": "ascensor",
+      "metros": 4,
+      "segundos": 20,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": "ascensor_a"
+    },
+    {
+      "origen": "p5_c15",
+      "destino": "p5_ascensor_b",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_ascensor_b",
+      "destino": "p5_ascensor_b",
+      "tipo": "ascensor",
+      "metros": 4,
+      "segundos": 20,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": "ascensor_b"
+    },
+    {
+      "origen": "p5_c7",
+      "destino": "p5_escalera",
+      "tipo": "pasillo",
+      "metros": 4.0,
+      "segundos": 4.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p4_escalera",
+      "destino": "p5_escalera",
+      "tipo": "escalera",
+      "metros": 4,
+      "segundos": 12,
+      "accesible": false,
+      "bloqueada": false,
+      "grupo": "escalera"
+    },
+    {
+      "origen": "p5_c0",
+      "destino": "p5_g0",
+      "tipo": "pasillo",
+      "metros": 16.0,
+      "segundos": 16.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c7",
+      "destino": "p5_g7",
+      "tipo": "pasillo",
+      "metros": 16.0,
+      "segundos": 16.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c15",
+      "destino": "p5_g15",
+      "tipo": "pasillo",
+      "metros": 16.0,
+      "segundos": 16.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_g0",
+      "destino": "p5_g7",
+      "tipo": "pasillo",
+      "metros": 28.0,
+      "segundos": 28.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_g7",
+      "destino": "p5_g15",
+      "tipo": "pasillo",
+      "metros": 32.0,
+      "segundos": 32.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c0",
+      "destino": "observacion_1",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c1",
+      "destino": "observacion_2",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c2",
+      "destino": "observacion_3",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c3",
+      "destino": "habitaciones_1",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c4",
+      "destino": "habitaciones_2",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    },
+    {
+      "origen": "p5_c5",
+      "destino": "habitaciones_3",
+      "tipo": "pasillo",
+      "metros": 8.0,
+      "segundos": 8.0,
+      "accesible": true,
+      "bloqueada": false,
+      "grupo": null
+    }
+  ],
+  "secciones": [
+    {
+      "id": "recepcion_1",
+      "area": "recepcion",
+      "piso": 1,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "recepcion_2",
+      "area": "recepcion",
+      "piso": 1,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "recepcion_3",
+      "area": "recepcion",
+      "piso": 1,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "triaje_1",
+      "area": "triaje",
+      "piso": 1,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "triaje_2",
+      "area": "triaje",
+      "piso": 1,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "triaje_3",
+      "area": "triaje",
+      "piso": 1,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "atencion_prioritaria_1",
+      "area": "atencion_prioritaria",
+      "piso": 1,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "atencion_prioritaria_2",
+      "area": "atencion_prioritaria",
+      "piso": 1,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "atencion_prioritaria_3",
+      "area": "atencion_prioritaria",
+      "piso": 1,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "medicina_general_1",
+      "area": "medicina_general",
+      "piso": 1,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "medicina_general_2",
+      "area": "medicina_general",
+      "piso": 1,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "medicina_general_3",
+      "area": "medicina_general",
+      "piso": 1,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "pediatria_1",
+      "area": "pediatria",
+      "piso": 1,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "pediatria_2",
+      "area": "pediatria",
+      "piso": 1,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "pediatria_3",
+      "area": "pediatria",
+      "piso": 1,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "ginecologia_1",
+      "area": "ginecologia",
+      "piso": 2,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "ginecologia_2",
+      "area": "ginecologia",
+      "piso": 2,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "ginecologia_3",
+      "area": "ginecologia",
+      "piso": 2,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "medicina_interna_1",
+      "area": "medicina_interna",
+      "piso": 2,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "medicina_interna_2",
+      "area": "medicina_interna",
+      "piso": 2,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "medicina_interna_3",
+      "area": "medicina_interna",
+      "piso": 2,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "traumatologia_1",
+      "area": "traumatologia",
+      "piso": 3,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "traumatologia_2",
+      "area": "traumatologia",
+      "piso": 3,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "traumatologia_3",
+      "area": "traumatologia",
+      "piso": 3,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "cardiologia_1",
+      "area": "cardiologia",
+      "piso": 3,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "cardiologia_2",
+      "area": "cardiologia",
+      "piso": 3,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "cardiologia_3",
+      "area": "cardiologia",
+      "piso": 3,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "laboratorio_1",
+      "area": "laboratorio",
+      "piso": 4,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "laboratorio_2",
+      "area": "laboratorio",
+      "piso": 4,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "laboratorio_3",
+      "area": "laboratorio",
+      "piso": 4,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "imagenes_1",
+      "area": "imagenes",
+      "piso": 4,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "imagenes_2",
+      "area": "imagenes",
+      "piso": 4,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "imagenes_3",
+      "area": "imagenes",
+      "piso": 4,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "observacion_1",
+      "area": "observacion",
+      "piso": 5,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "observacion_2",
+      "area": "observacion",
+      "piso": 5,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "observacion_3",
+      "area": "observacion",
+      "piso": 5,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "habitaciones_1",
+      "area": "habitaciones",
+      "piso": 5,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "habitaciones_2",
+      "area": "habitaciones",
+      "piso": 5,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    },
+    {
+      "id": "habitaciones_3",
+      "area": "habitaciones",
+      "piso": 5,
+      "estado": "abierta",
+      "espera_segundos": 0,
+      "horario": "08:00–18:00",
+      "capacidad": 4
+    }
+  ]
+}

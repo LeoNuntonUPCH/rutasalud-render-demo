@@ -1,0 +1,246 @@
+[
+  {
+    "caso": "C02",
+    "version": 5,
+    "estado": "inicial",
+    "origen": "recepcion_1",
+    "area": "triaje",
+    "garantizados": [
+      "bfs"
+    ],
+    "habilitados": [
+      "bfs",
+      "dfs"
+    ],
+    "destinos": [
+      "fin_triaje_1",
+      "fin_triaje_2",
+      "fin_triaje_3"
+    ],
+    "unidad": "tramos",
+    "optimo": 5,
+    "presupuesto": 21,
+    "errores_heuristica": [],
+    "resultados": {
+      "bfs": {
+        "ruta": [
+          "recepcion_1",
+          "p1_c0",
+          "p1_c1",
+          "p1_c2",
+          "p1_c3",
+          "triaje_1",
+          "fin_triaje_1"
+        ],
+        "costo": 5,
+        "expansiones": 21
+      },
+      "dfs": {
+        "ruta": [
+          "recepcion_1",
+          "p1_c0",
+          "p1_c1",
+          "p1_c2",
+          "p1_c3",
+          "p1_c4",
+          "p1_c5",
+          "triaje_3",
+          "fin_triaje_3"
+        ],
+        "costo": 7,
+        "expansiones": 32
+      },
+      "dijkstra": {
+        "ruta": [
+          "recepcion_1",
+          "p1_c0",
+          "p1_c1",
+          "p1_c2",
+          "p1_c3",
+          "triaje_1",
+          "fin_triaje_1"
+        ],
+        "costo": 5,
+        "expansiones": 19
+      },
+      "astar": {
+        "ruta": [
+          "recepcion_1",
+          "p1_c0",
+          "p1_c1",
+          "p1_c2",
+          "p1_c3",
+          "triaje_1",
+          "fin_triaje_1"
+        ],
+        "costo": 5,
+        "expansiones": 12
+      },
+      "greedy": {
+        "ruta": [
+          "recepcion_1",
+          "p1_c0",
+          "p1_c1",
+          "p1_c2",
+          "p1_c3",
+          "triaje_1",
+          "fin_triaje_1"
+        ],
+        "costo": 5,
+        "expansiones": 8
+      },
+      "bidireccional": {
+        "ruta": [
+          "recepcion_1",
+          "p1_c0",
+          "p1_c1",
+          "p1_c2",
+          "p1_c3",
+          "triaje_1",
+          "fin_triaje_1"
+        ],
+        "costo": 5,
+        "expansiones": 15
+      }
+    }
+  },
+  {
+    "caso": "C02",
+    "version": 5,
+    "estado": "inicial",
+    "origen": "triaje_1",
+    "area": "pediatria",
+    "garantizados": [
+      "bfs"
+    ],
+    "habilitados": [
+      "bfs",
+      "dfs"
+    ],
+    "destinos": [
+      "fin_pediatria_1",
+      "fin_pediatria_2",
+      "fin_pediatria_3"
+    ],
+    "unidad": "tramos",
+    "optimo": 10,
+    "presupuesto": 36,
+    "errores_heuristica": [],
+    "resultados": {
+      "bfs": {
+        "ruta": [
+          "triaje_1",
+          "p1_c3",
+          "p1_c2",
+          "p1_c1",
+          "p1_c0",
+          "p1_g0",
+          "p1_g7",
+          "p1_g15",
+          "p1_c15",
+          "p1_c14",
+          "pediatria_3",
+          "fin_pediatria_3"
+        ],
+        "costo": 10,
+        "expansiones": 36
+      },
+      "dfs": {
+        "ruta": [
+          "triaje_1",
+          "p1_c3",
+          "p1_c2",
+          "p1_c1",
+          "p1_c0",
+          "p1_g0",
+          "p1_g7",
+          "p1_c7",
+          "p1_c8",
+          "p1_c9",
+          "p1_c10",
+          "p1_c11",
+          "p1_c12",
+          "p1_c13",
+          "p1_c14",
+          "pediatria_3",
+          "fin_pediatria_3"
+        ],
+        "costo": 15,
+        "expansiones": 28
+      },
+      "dijkstra": {
+        "ruta": [
+          "triaje_1",
+          "p1_c3",
+          "p1_c4",
+          "p1_c5",
+          "p1_c6",
+          "p1_c7",
+          "p1_g7",
+          "p1_g15",
+          "p1_c15",
+          "p1_c14",
+          "pediatria_3",
+          "fin_pediatria_3"
+        ],
+        "costo": 10,
+        "expansiones": 35
+      },
+      "astar": {
+        "ruta": [
+          "triaje_1",
+          "p1_c3",
+          "p1_c4",
+          "p1_c5",
+          "p1_c6",
+          "p1_c7",
+          "p1_g7",
+          "p1_g15",
+          "p1_c15",
+          "p1_c14",
+          "pediatria_3",
+          "fin_pediatria_3"
+        ],
+        "costo": 10,
+        "expansiones": 32
+      },
+      "greedy": {
+        "ruta": [
+          "triaje_1",
+          "p1_c3",
+          "p1_c4",
+          "p1_c5",
+          "p1_c6",
+          "p1_c7",
+          "p1_c8",
+          "p1_c9",
+          "p1_c10",
+          "p1_c11",
+          "p1_c12",
+          "pediatria_1",
+          "fin_pediatria_1"
+        ],
+        "costo": 11,
+        "expansiones": 14
+      },
+      "bidireccional": {
+        "ruta": [
+          "triaje_1",
+          "p1_c3",
+          "p1_c4",
+          "p1_c5",
+          "p1_c6",
+          "p1_c7",
+          "p1_g7",
+          "p1_g15",
+          "p1_c15",
+          "p1_c14",
+          "pediatria_3",
+          "fin_pediatria_3"
+        ],
+        "costo": 10,
+        "expansiones": 30
+      }
+    }
+  }
+]

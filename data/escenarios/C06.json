@@ -1,0 +1,44 @@
+{
+  "id": "C06",
+  "nivel": 3,
+  "origen": "recepcion_1",
+  "silla_ruedas": true,
+  "pisos_habilitados": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "etapas": [
+    "triaje",
+    "traumatologia"
+  ],
+  "eventos": [],
+  "costo": "segundos",
+  "semilla": 6,
+  "hora_caso": "14:00",
+  "bloqueados_iniciales": [
+    "ascensor_a"
+  ],
+  "heuristica_disponible": true,
+  "cambios_conexiones": [],
+  "cambios_secciones": [
+    {
+      "id": "traumatologia_1",
+      "cambios": {
+        "estado": "cerrada",
+        "horario": "08:00–12:00",
+        "motivo_cierre": "Fuera de horario"
+      }
+    },
+    {
+      "id": "traumatologia_3",
+      "cambios": {
+        "estado": "cerrada",
+        "horario": "08:00–13:00",
+        "motivo_cierre": "Fuera de horario"
+      }
+    }
+  ]
+}

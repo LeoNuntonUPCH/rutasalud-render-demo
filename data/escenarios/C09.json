@@ -1,0 +1,33 @@
+{
+  "id": "C09",
+  "nivel": 4,
+  "origen": "recepcion_1",
+  "silla_ruedas": false,
+  "pisos_habilitados": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "etapas": [
+    "triaje",
+    "medicina_general"
+  ],
+  "eventos": [
+    {
+      "origen": "triaje_1",
+      "etapas": [
+        "atencion_prioritaria"
+      ],
+      "bloqueados": []
+    }
+  ],
+  "costo": "segundos",
+  "semilla": 9,
+  "hora_caso": "10:00",
+  "bloqueados_iniciales": [],
+  "heuristica_disponible": true,
+  "cambios_conexiones": [],
+  "cambios_secciones": []
+}

@@ -1,0 +1,213 @@
+[
+  {
+    "caso": "C03",
+    "version": 5,
+    "estado": "inicial",
+    "origen": "recepcion_1",
+    "area": "triaje",
+    "garantizados": [
+      "bfs"
+    ],
+    "habilitados": [
+      "bfs",
+      "dfs"
+    ],
+    "destinos": [
+      "fin_triaje_1",
+      "fin_triaje_2",
+      "fin_triaje_3"
+    ],
+    "unidad": "tramos",
+    "optimo": 5,
+    "presupuesto": 21,
+    "errores_heuristica": [],
+    "resultados": {
+      "bfs": {
+        "ruta": [
+          "recepcion_1",
+          "p1_c0",
+          "p1_c1",
+          "p1_c2",
+          "p1_c3",
+          "triaje_1",
+          "fin_triaje_1"
+        ],
+        "costo": 5,
+        "expansiones": 21
+      },
+      "dfs": {
+        "ruta": [
+          "recepcion_1",
+          "p1_c0",
+          "p1_c1",
+          "p1_c2",
+          "p1_c3",
+          "p1_c4",
+          "p1_c5",
+          "triaje_3",
+          "fin_triaje_3"
+        ],
+        "costo": 7,
+        "expansiones": 32
+      },
+      "dijkstra": {
+        "ruta": [
+          "recepcion_1",
+          "p1_c0",
+          "p1_c1",
+          "p1_c2",
+          "p1_c3",
+          "triaje_1",
+          "fin_triaje_1"
+        ],
+        "costo": 5,
+        "expansiones": 19
+      },
+      "astar": {
+        "ruta": [
+          "recepcion_1",
+          "p1_c0",
+          "p1_c1",
+          "p1_c2",
+          "p1_c3",
+          "triaje_1",
+          "fin_triaje_1"
+        ],
+        "costo": 5,
+        "expansiones": 12
+      },
+      "greedy": {
+        "ruta": [
+          "recepcion_1",
+          "p1_c0",
+          "p1_c1",
+          "p1_c2",
+          "p1_c3",
+          "triaje_1",
+          "fin_triaje_1"
+        ],
+        "costo": 5,
+        "expansiones": 8
+      },
+      "bidireccional": {
+        "ruta": [
+          "recepcion_1",
+          "p1_c0",
+          "p1_c1",
+          "p1_c2",
+          "p1_c3",
+          "triaje_1",
+          "fin_triaje_1"
+        ],
+        "costo": 5,
+        "expansiones": 15
+      }
+    }
+  },
+  {
+    "caso": "C03",
+    "version": 5,
+    "estado": "inicial",
+    "origen": "triaje_1",
+    "area": "atencion_prioritaria",
+    "garantizados": [
+      "bfs"
+    ],
+    "habilitados": [
+      "bfs",
+      "dfs"
+    ],
+    "destinos": [
+      "fin_atencion_prioritaria_1",
+      "fin_atencion_prioritaria_2",
+      "fin_atencion_prioritaria_3"
+    ],
+    "unidad": "tramos",
+    "optimo": 5,
+    "presupuesto": 18,
+    "errores_heuristica": [],
+    "resultados": {
+      "bfs": {
+        "ruta": [
+          "triaje_1",
+          "p1_c3",
+          "p1_c4",
+          "p1_c5",
+          "p1_c6",
+          "atencion_prioritaria_1",
+          "fin_atencion_prioritaria_1"
+        ],
+        "costo": 5,
+        "expansiones": 18
+      },
+      "dfs": {
+        "ruta": [
+          "triaje_1",
+          "p1_c3",
+          "p1_c2",
+          "p1_c1",
+          "p1_c0",
+          "p1_g0",
+          "p1_g7",
+          "p1_c7",
+          "atencion_prioritaria_2",
+          "fin_atencion_prioritaria_2"
+        ],
+        "costo": 8,
+        "expansiones": 10
+      },
+      "dijkstra": {
+        "ruta": [
+          "triaje_1",
+          "p1_c3",
+          "p1_c4",
+          "p1_c5",
+          "p1_c6",
+          "atencion_prioritaria_1",
+          "fin_atencion_prioritaria_1"
+        ],
+        "costo": 5,
+        "expansiones": 13
+      },
+      "astar": {
+        "ruta": [
+          "triaje_1",
+          "p1_c3",
+          "p1_c4",
+          "p1_c5",
+          "p1_c6",
+          "atencion_prioritaria_1",
+          "fin_atencion_prioritaria_1"
+        ],
+        "costo": 5,
+        "expansiones": 13
+      },
+      "greedy": {
+        "ruta": [
+          "triaje_1",
+          "p1_c3",
+          "p1_c4",
+          "p1_c5",
+          "p1_c6",
+          "atencion_prioritaria_1",
+          "fin_atencion_prioritaria_1"
+        ],
+        "costo": 5,
+        "expansiones": 8
+      },
+      "bidireccional": {
+        "ruta": [
+          "triaje_1",
+          "p1_c3",
+          "p1_c4",
+          "p1_c5",
+          "p1_c6",
+          "atencion_prioritaria_1",
+          "fin_atencion_prioritaria_1"
+        ],
+        "costo": 5,
+        "expansiones": 13
+      }
+    }
+  }
+]
